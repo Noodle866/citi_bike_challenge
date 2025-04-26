@@ -1,0 +1,27 @@
+These are the 4 phenomenon's chosen for challenge 18 for reference.
+
+Each questions needs these 
+	Analysis is written in a markdown file or included in the Tableau Public workbook
+ 
+	Analysis describes the dashboards and any interesting data discoveries contained within them
+
+	Analysis on the chosen city official requested map detailing any noticeable trends 
+
+	The written analysis references specific visualizations and interactive features 
+	
+	The document is written in a manner that a non-technical reader could understand 
+
+
+Today, what are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesize these are the top locations?
+
+Today, what are the top 10 stations in the city for ending a journey? Based on data, why?
+
+Today, what are the bottom 10 stations in the city for starting a journey? Based on data, why?
+
+Today, what are the bottom 10 stations in the city for ending a journey? Based on data, why?
+
+MAP
+Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
+
+FINAL 
+Create a Tableau story that brings together the visualizations, requested maps, and dashboards.

@@ -1,5 +1,7 @@
-These are the 4 phenomenon's chosen for challenge 18 for reference.
-	
+Design 2–5 visualizations for each discovered phenomenon (4–10 total)
+
+Four phenomenon's chosen for challenge 18:
+
 	Today, what are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesize these are the top locations?
 
 	Today, what are the top 10 stations in the city for ending a journey? Based on data, why?
@@ -7,9 +9,9 @@ These are the 4 phenomenon's chosen for challenge 18 for reference.
 	Today, what are the bottom 10 stations in the city for starting a journey? Based on data, why?
 
 	Today, what are the bottom 10 stations in the city for ending a journey? Based on data, why?
-
-Each questions needs these
-
+	
+Each questions needs:
+ 
 	Analysis is written in a markdown file or included in the Tableau Public workbook
  
 	Analysis describes the dashboards and any interesting data discoveries contained within them
@@ -18,10 +20,12 @@ Each questions needs these
 
 	The written analysis references specific visualizations and interactive features 
 	
-	The document is written in a manner that a non-technical reader could understand 
+	The document is written in a manner that a non-technical reader could understand
 
-MAP
+MAP:
+
 	Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
 
-FINAL 
+FINAL:
+ 
 	Create a Tableau story that brings together the visualizations, requested maps, and dashboards.

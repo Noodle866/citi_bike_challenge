@@ -4,7 +4,7 @@ In this project students of UofM data visualization and analytics bootcamp were 
 
 # link to Tableau Public 
 
-https://public.tableau.com/app/profile/noah.stevenson2012/viz/CitiBikeData_17461560560250/Bottom10StartStations
+https://public.tableau.com/app/profile/noah.stevenson2012/viz/CitiBikeData_17461560560250/CitiBikeStory
 
 # Quick Snapshots
 
